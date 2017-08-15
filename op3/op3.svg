@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1182"
+   height="2375"
+   viewBox="0 0 1182 2375"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>front</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     id="namedview46"
+     showgrid="false"
+     inkscape:zoom="0.19873684"
+     inkscape:cx="1030.0227"
+     inkscape:cy="1876.119"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">front</title>
+  <desc
+     id="desc6">Created using Figma</desc>
+  <g
+     id="Canvas"
+     transform="translate(-25525 -269)">
+    <g
+       id="front">
+      <mask
+         id="mask0_outline"
+         mask-type="alpha">
+        <g
+           id="oneplus 3">
+          <use
+             xlink:href="#path0_fill"
+             transform="translate(25525 269)"
+             fill="#FFFFFF"
+             id="use12" />
+        </g>
+      </mask>
+      <g
+         id="g14"
+         mask="url(#mask0_outline)">
+        <use
+           xlink:href="#path1_fill"
+           transform="translate(25525 269)"
+           fill="#212121"
+           id="use16" />
+      </g>
+      <g
+         id="screen"
+         mask="url(#mask0_outline)">
+        <use
+           xlink:href="#path2_fill"
+           transform="translate(25576 480)"
+           fill="#FFFFFF"
+           id="use19" />
+      </g>
+      <g
+         id="fingerprint reader"
+         mask="url(#mask0_outline)">
+        <use
+           xlink:href="#path3_stroke"
+           transform="translate(26003 2462)"
+           fill="#343434"
+           id="use22" />
+      </g>
+      <g
+         id="speaker"
+         mask="url(#mask0_outline)">
+        <use
+           xlink:href="#path4_fill"
+           transform="translate(26030 360)"
+           id="use25" />
+      </g>
+      <g
+         id="light sensor"
+         mask="url(#mask0_outline)">
+        <use
+           xlink:href="#path5_fill"
+           transform="translate(25912 360)"
+           id="use28" />
+      </g>
+      <g
+         id="camera"
+         mask="url(#mask0_outline)">
+        <use
+           xlink:href="#path6_fill"
+           transform="translate(25807 355)"
+           fill="#080808"
+           id="use31" />
+      </g>
+      <g
+         id="shadow"
+         mask="url(#mask0_outline)" />
+    </g>
+  </g>
+  <defs
+     id="defs36">
+    <path
+       id="path0_fill"
+       fill-rule="evenodd"
+       d="M 597.504 0C 92.9141 0 83.1836 8.16418 83.1836 8.16418L 83.1836 8.2421C 41.6367 15.2865 10 51.4486 10 95L 10 332L 4 332C 1.79102 332 0 333.791 0 336L 0 452C 0 454.209 1.79102 456 4 456L 10 456L 10 631L 4 631C 1.79102 631 0 632.791 0 635L 0 945C 0 947.209 1.79102 949 4 949L 10 949L 10 2278C 10 2323.64 43.9688 2361.34 88.002 2367.21C 92.5215 2368.4 137.777 2374.33 591 2374.33C 1044.22 2374.33 1089.48 2368.4 1094 2367.21C 1138.03 2361.34 1172 2323.64 1172 2278L 1172 911L 1178 911C 1180.21 911 1182 909.209 1182 907L 1182 728C 1182 725.791 1180.21 724 1178 724L 1172 724L 1172 95C 1172 51.5125 1140.46 15.3926 1099 8.27328L 1099 8.16418C 1099 8.16418 1102.09 0 597.504 0Z" />
+    <path
+       id="path1_fill"
+       fill-rule="evenodd"
+       d="M 597.504 0C 92.9141 0 83.1836 8.16418 83.1836 8.16418L 83.1836 8.2421C 41.6367 15.2865 10 51.4486 10 95L 10 332L 4 332C 1.79102 332 0 333.791 0 336L 0 452C 0 454.209 1.79102 456 4 456L 10 456L 10 631L 4 631C 1.79102 631 0 632.791 0 635L 0 945C 0 947.209 1.79102 949 4 949L 10 949L 10 2278C 10 2323.64 43.9688 2361.34 88.002 2367.21C 92.5215 2368.4 137.777 2374.33 591 2374.33C 1044.22 2374.33 1089.48 2368.4 1094 2367.21C 1138.03 2361.34 1172 2323.64 1172 2278L 1172 911L 1178 911C 1180.21 911 1182 909.209 1182 907L 1182 728C 1182 725.791 1180.21 724 1178 724L 1172 724L 1172 95C 1172 51.5125 1140.46 15.3926 1099 8.27328L 1099 8.16418C 1099 8.16418 1102.09 0 597.504 0Z" />
+    <path
+       id="path2_fill"
+       fill-rule="evenodd"
+       d="M 0 0L 1080 0L 1080 1920L 0 1920L 0 0Z" />
+    <path
+       id="path3_stroke"
+       d="M 54 5L 173 5L 173 -5L 54 -5L 54 5ZM 173 103L 54 103L 54 113L 173 113L 173 103ZM 54 -5C 21.4152 -5 -5 21.4152 -5 54L 5 54C 5 26.938 26.938 5 54 5L 54 -5ZM 173 5C 200.062 5 222 26.938 222 54L 232 54C 232 21.4152 205.585 -5 173 -5L 173 5ZM 222 54C 222 81.062 200.062 103 173 103L 173 113C 205.585 113 232 86.5848 232 54L 222 54ZM 54 103C 26.938 103 5 81.062 5 54L -5 54C -5 86.5848 21.4152 113 54 113L 54 103Z" />
+    <path
+       id="path4_fill"
+       fill-rule="evenodd"
+       d="M 0 9.5C 0 4.25329 4.25329 0 9.5 0L 162.5 0C 167.747 0 172 4.25329 172 9.5C 172 14.7467 167.747 19 162.5 19L 9.5 19C 4.25329 19 0 14.7467 0 9.5Z" />
+    <path
+       id="path5_fill"
+       fill-rule="evenodd"
+       d="M 0 9.5C 0 4.25329 4.25329 0 9.5 0L 27.5 0C 32.7467 0 37 4.25329 37 9.5C 37 14.7467 32.7467 19 27.5 19L 9.5 19C 4.25329 19 0 14.7467 0 9.5Z" />
+    <path
+       id="path6_fill"
+       fill-rule="evenodd"
+       d="M 14.5 29C 22.5081 29 29 22.5081 29 14.5C 29 6.49187 22.5081 0 14.5 0C 6.49187 0 0 6.49187 0 14.5C 0 22.5081 6.49187 29 14.5 29Z" />
+    <path
+       id="path7_fill"
+       fill-rule="evenodd"
+       d="M 0 0L 3150 0L 3150 3150L 0 3150L 0 0Z" />
+  </defs>
+</svg>
