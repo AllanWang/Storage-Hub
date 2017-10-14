@@ -1,2 +1,2 @@
 # Storage-Hub
-Just a git with bigger files
+Just a git for bigger files
